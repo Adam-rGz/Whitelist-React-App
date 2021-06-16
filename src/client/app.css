@@ -1,0 +1,15 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+.form-error{
+  color: #9f3a38;
+    margin-top: -10px;
+    display: block;
+    margin-bottom: 5px;
+}
+.editApp .segment:after { clear:both; content:"."; display:block; height:0; visibility:hidden; }
